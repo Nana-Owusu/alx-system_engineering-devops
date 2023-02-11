@@ -8,4 +8,5 @@ Task 6 gives multiple permissions
 Task 7 gives executable permission to everybody
 Task 8 grants permission to other users only
 Task 9 changes the mode of a file
-Task 10 sets mode of one directory to the other 
+Task 10 sets mode of one directory to the other
+Tasl 11 execute permission to all subdirectories 
