@@ -7,4 +7,5 @@ Task 5 makes file executable
 Task 6 gives multiple permissions
 Task 7 gives executable permission to everybody
 Task 8 grants permission to other users only
-TAsk 9 changes the mode of a file 
+Task 9 changes the mode of a file
+Task 10 sets mode of one directory to the other 
