@@ -5,3 +5,4 @@ Task 3 displays the content of two directories
 Task 4 displays the last 10 lines of a file
 Task 5 displays the first 10 lines of a file
 Task 6 displays the third line in a file
+Task 7 diplays text in the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
