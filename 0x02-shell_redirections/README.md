@@ -9,4 +9,5 @@ Task 7 diplays text in the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*
 Task 8 displays the result of the command ls -l
 Task 9 displays the last line of the file iacta
 Task 10 deletes all regular files in .js
-Task 11 makes the directories count 
+Task 11 makes the directories count
+Task 12 displays the 10 newest files in the current directory 
