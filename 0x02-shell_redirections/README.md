@@ -13,4 +13,5 @@ Task 11 makes the directories count
 Task 12 displays the 10 newest files in the current directory
 Task 13 takes a list of words as input and prints only words that appear exactly once
 Task 14 displays lines containing the pattern
-Task 15 Display the number of lines that contain the pattern “bin” in the file  
+Task 15 Display the number of lines that contain the pattern “bin” in the file
+Task 16 Display lines containing the pattern “root” and 3 lines after them in the file  
